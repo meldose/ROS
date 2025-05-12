@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>my_robot_controller</name>
+  <version>0.0.0</version>
+  <description>The my_robot_controller package</description>
+
+
+  <maintainer email="midhun.eldose@todo.todo">midhun.eldose</maintainer>
+
+  <license>TODO</license>
+
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>rospy</buildtool_depend>
+  <buildtool_depend>turtlesim</buildtool_depend>
+  <buildtool_depend>geometry_msgs</buildtool_depend>
+  <buildtool_depend>rospy</buildtool_depend>
+  <buildtool_depend>turtlesim</buildtool_depend>
+  <buildtool_depend>geometry_msgs</buildtool_depend>
+  <buildtool_depend>rospy</buildtool_depend>
+  <buildtool_depend>turtlesim</buildtool_depend>
+  <buildtool_depend>geometry_msgs</buildtool_depend>
+
+
+  <export>
+
+  </export>
+</package>
